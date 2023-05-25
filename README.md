@@ -15,5 +15,3 @@ Write a plugin which does the following tasks.
     Also use rewriting api and add a new endpoint at the end of each post permalink named gallery
 
         At the endpoint render a custom template which shows the property gallery.
-
-The deliverable is a private github repo so we can review and ask questions in the pull request. Please add stephan.depta@googlemail.com and shakeeb@monetizemore.com to that repo.
